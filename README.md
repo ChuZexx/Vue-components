@@ -28,6 +28,6 @@
 
 ## 目录介绍
 
-|---  src   // 源码<br/>
-| &nbsp;&nbsp;&nbsp;|----- components   //组件文件夹<br/>
-| &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|----- Form   //自定义表单组件
+|----------  &nbsp;&nbsp; src   &nbsp;&nbsp;// 源码<br/>
+| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp;components   &nbsp;&nbsp;//组件文件夹<br/>
+| &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Form    &nbsp;&nbsp;//自定义表单组件
