@@ -24,7 +24,7 @@
 
 ## 效果截图
 
-![自定义表单](https://github.com/JanYiAn/Vue-components/blob/master/public/222.gif)
+![自定义表单](./public/Form.gif)
 
 ## 目录介绍
 
