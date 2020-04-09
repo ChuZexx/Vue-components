@@ -25,6 +25,7 @@
 ## 效果截图
 
 ![自定义表单](./public/Form.gif)
+<br/>
 ![文字走马灯](./public/Carousel.gif)
 
 ## 目录介绍
