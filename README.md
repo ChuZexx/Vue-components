@@ -16,7 +16,7 @@
 ## 组件列表
 - [x] Form验证表达组件
 - [ ] 自定义灯光滑动条
-- [ ] 走马灯
+- [x] 走马灯
 - [ ] 模拟窗帘开关控制
 - [ ] 音量控制
 
@@ -25,9 +25,11 @@
 ## 效果截图
 
 ![自定义表单](./public/Form.gif)
+![文字走马灯](./public/Carousel.gif)
 
 ## 目录介绍
 
 |----------  &nbsp;&nbsp; src   &nbsp;&nbsp;// 源码<br/>
 | &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp;components   &nbsp;&nbsp;// 组件文件夹<br/>
 | &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Form    &nbsp;&nbsp;// 自定义表单组件
+| &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Carousel    &nbsp;&nbsp;// 文字走马灯

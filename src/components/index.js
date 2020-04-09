@@ -1,5 +1,7 @@
 import Form from './Form'
+import Carousel from './Carousel'
 
 export {
-  Form
+  Form,
+  Carousel
 }
