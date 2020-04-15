@@ -19,6 +19,7 @@
 - [x] 走马灯
 - [ ] 模拟窗帘开关控制
 - [ ] 音量控制
+- [x] Tree树组件
 
 > 持续更新中...
 
@@ -32,9 +33,14 @@
 
 ![文字走马灯](./public/Carousel.gif)
 
+3. Tree<br/>
+
+![文字走马灯](./public/Tree.gif)
+
 ## 目录介绍
 
 |----------  &nbsp;&nbsp; src   &nbsp;&nbsp;// 源码<br/>
 | &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp;components   &nbsp;&nbsp;// 组件文件夹<br/>
 | &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Form    &nbsp;&nbsp;// 自定义表单组件<br/>
-| &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Carousel    &nbsp;&nbsp;// 文字走马灯
+| &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Carousel    &nbsp;&nbsp;// 文字走马灯<br/>
+| &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Tree    &nbsp;&nbsp;// 树形列表<br/>

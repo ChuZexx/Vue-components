@@ -13,6 +13,9 @@
     <div class="home-item">
       <j-carousel :dataList="dataSource" />
     </div>
+    <div class="home-item">
+      <j-tree :model="treeData" />
+    </div>
   </div>
 </template>
 <script>
@@ -36,7 +39,68 @@ export default {
       },
       dataSource: [
         'PM:2.5 u/g', 'CO2:30 m3/e', '湿度:30 d/m3'
-      ]
+      ],
+      treeData: {
+        title: '地球',
+        children: [
+          {
+            title: '人'
+          },
+          {
+            title: '水果',
+            children: [
+              {
+                title: '橘子'
+              },
+              {
+                title: '苹果'
+              }
+            ]
+          },
+          {
+            title: '植物',
+            children: [
+              {
+                title: '四君子',
+                expand: true,
+                children: [
+                  {
+                    title: '梅'
+                  },
+                  {
+                    title: '兰'
+                  },
+                  {
+                    title: '竹'
+                  }
+                ]
+              },
+              {
+                title: '动物',
+                children: [
+                  {
+                    title: '猪🐷'
+                  },
+                  {
+                    title: '狗'
+                  }
+                ]
+              },
+              {
+                title: '气体',
+                children: [
+                  {
+                    title: '空气',
+                    children: [
+                      {
+                        title: '氧气'
+                      }]
+                  }]
+              }
+            ]
+          }
+        ]
+      }
     }
   },
   computed: {},
@@ -62,6 +126,7 @@ export default {
     height: 160px;
     border: solid 1px black;
     padding: 20px 20px 20px 20px;
+    overflow-y: auto;
   }
 }
 </style>
