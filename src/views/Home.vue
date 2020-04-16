@@ -16,6 +16,9 @@
     <div class="home-item">
       <j-tree :model="treeData" />
     </div>
+    <div class="home-item">
+      <div @click="notice" style="cursor: pointer;">点击弹出加载界面</div>
+    </div>
   </div>
 </template>
 <script>
@@ -106,6 +109,15 @@ export default {
   computed: {},
   watch: {},
   methods: {
+    notice () {
+      console.log('notice')
+      this.$loading({
+        title: '正在努力加载中...'
+      })
+      setTimeout(() => {
+        this.$loading.close()
+      }, 3000)
+    }
   },
   created () {
 

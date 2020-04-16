@@ -20,6 +20,7 @@
 - [ ] 模拟窗帘开关控制
 - [ ] 音量控制
 - [x] Tree树组件
+- [x] Loading加载界面
 
 > 持续更新中...
 
@@ -35,7 +36,11 @@
 
 3. Tree<br/>
 
-![文字走马灯](./public/Tree.gif)
+![Tree](./public/Tree.gif)
+
+4. Loading<br/>
+
+![Loading](./public/loading-1.gif)
 
 ## 目录介绍
 
@@ -44,3 +49,4 @@
 | &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Form    &nbsp;&nbsp;// 自定义表单组件<br/>
 | &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Carousel    &nbsp;&nbsp;// 文字走马灯<br/>
 | &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Tree    &nbsp;&nbsp;// 树形列表<br/>
+| &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Tree    &nbsp;&nbsp;// 加载界面<br/>
