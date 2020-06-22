@@ -15,10 +15,9 @@
 
 ## 组件列表
 - [x] Form验证表达组件
-- [ ] 自定义灯光滑动条
+- [x] 自定义灯光滑动条
 - [x] 走马灯
 - [ ] 模拟窗帘开关控制
-- [ ] 音量控制
 - [x] Tree树组件
 - [x] Loading加载界面
 
@@ -42,6 +41,10 @@
 
 ![Loading](./public/loading-1.gif)
 
+5. Light<br/>
+
+![Light](./public/Light.gif)
+
 ## 目录介绍
 
 |----------  &nbsp;&nbsp; src   &nbsp;&nbsp;// 源码<br/>
@@ -49,4 +52,5 @@
 | &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Form    &nbsp;&nbsp;// 自定义表单组件<br/>
 | &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Carousel    &nbsp;&nbsp;// 文字走马灯<br/>
 | &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Tree    &nbsp;&nbsp;// 树形列表<br/>
-| &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Tree    &nbsp;&nbsp;// 加载界面<br/>
+| &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Loading    &nbsp;&nbsp;// 加载界面<br/>
+| &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Light    &nbsp;&nbsp;// 灯<br/>

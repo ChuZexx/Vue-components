@@ -19,6 +19,9 @@
     <div class="home-item">
       <div @click="notice" style="cursor: pointer;">点击弹出加载界面</div>
     </div>
+    <div class="home-item">
+      <j-light v-model="per"></j-light>
+    </div>
   </div>
 </template>
 <script>
@@ -103,7 +106,8 @@ export default {
             ]
           }
         ]
-      }
+      },
+      per: 30 // 灯进度
     }
   },
   computed: {},
