@@ -17,7 +17,7 @@
 - [x] Form验证表达组件
 - [x] 自定义灯光滑动条
 - [x] 走马灯
-- [ ] 模拟窗帘开关控制
+- [x] 模拟窗帘开关控制
 - [x] Tree树组件
 - [x] Loading加载界面
 
@@ -45,6 +45,10 @@
 
 ![Light](./public/Light.gif)
 
+6. Curtain<br/>
+
+![Curtain](./public/Curtain.gif)
+
 ## 目录介绍
 
 |----------  &nbsp;&nbsp; src   &nbsp;&nbsp;// 源码<br/>
@@ -54,3 +58,4 @@
 | &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Tree    &nbsp;&nbsp;// 树形列表<br/>
 | &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Loading    &nbsp;&nbsp;// 加载界面<br/>
 | &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Light    &nbsp;&nbsp;// 灯<br/>
+| &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Curtain    &nbsp;&nbsp;// 窗帘<br/>

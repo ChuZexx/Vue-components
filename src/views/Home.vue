@@ -22,6 +22,9 @@
     <div class="home-item">
       <j-light v-model="per"></j-light>
     </div>
+    <div class="home-item">
+      <j-curtain />
+    </div>
   </div>
 </template>
 <script>
@@ -136,6 +139,9 @@ export default {
   height: 100%;
   width: 100%;
   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: flex-start;
   // background-color: aquamarine;
   .home-item {
     width: 20%;
