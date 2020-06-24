@@ -25,6 +25,9 @@
     <div class="home-item">
       <j-curtain />
     </div>
+    <div class="home-item">
+      <j-arc :settingTemp="30"/>
+    </div>
   </div>
 </template>
 <script>

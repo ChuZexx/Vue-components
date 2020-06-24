@@ -49,6 +49,10 @@
 
 ![Curtain](./public/Curtain.gif)
 
+7. Arc<br/>
+
+![Arc](./public/Arc.gif)
+
 ## 目录介绍
 
 |----------  &nbsp;&nbsp; src   &nbsp;&nbsp;// 源码<br/>
@@ -59,3 +63,4 @@
 | &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Loading    &nbsp;&nbsp;// 加载界面<br/>
 | &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Light    &nbsp;&nbsp;// 灯<br/>
 | &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Curtain    &nbsp;&nbsp;// 窗帘<br/>
+| &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;|---------- &nbsp;&nbsp; Arc    &nbsp;&nbsp;// 环形条<br/>
